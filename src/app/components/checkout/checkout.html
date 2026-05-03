@@ -1,0 +1,57 @@
+<div class="page">
+  <div class="page-header">
+    <div>
+      <h1 class="page-title">Checkout</h1>
+      <p class="page-subtitle">Review your order before placing</p>
+    </div>
+  </div>
+
+  <div class="success-order-banner" *ngIf="message">
+    <span style="font-size:1.3rem">🎉</span>
+    <div>
+      <strong>Order placed!</strong><br/>
+      <span style="font-size:0.875rem">{{ message }} Redirecting to orders...</span>
+    </div>
+  </div>
+
+  <div class="error-banner-red" *ngIf="error">⚠ {{ error }}</div>
+
+  <div class="checkout-layout" *ngIf="!message">
+    <div class="checkout-form-card">
+      <div class="checkout-section-title">📦 Delivery Information</div>
+      <p style="color:#6b7280; font-size:0.9rem; margin-bottom:1.5rem;">
+        Orders are fulfilled and delivered based on your registered account address.
+      </p>
+      <div class="checkout-section-title" style="margin-top:1.5rem">💳 Payment</div>
+      <div style="background:#f9fafb; border-radius:10px; padding:1rem; border:1px solid #e5e7eb;">
+        <p style="font-size:0.9rem; color:#374151; font-weight:600; margin-bottom:4px;">Cash on Delivery</p>
+        <p style="font-size:0.85rem; color:#6b7280;">Pay when your order arrives at your doorstep.</p>
+      </div>
+    </div>
+
+    <div class="order-summary-card">
+      <div class="summary-title">Your Order ({{ items.length }} items)</div>
+      <div class="order-item-row" *ngFor="let item of items">
+        <img class="order-item-img"
+          [src]="item.product.imageUrl || 'https://picsum.photos/seed/' + item.product.productId + '/100/100'"
+          [alt]="item.product.name"
+          (error)="item.product.imageUrl = 'https://picsum.photos/seed/' + item.product.productId + '/100/100'" />
+        <div class="order-item-name">{{ item.product.name }}</div>
+        <div class="order-item-qty">x{{ item.quantity }}</div>
+        <div class="order-item-price">₹{{ item.product.price * item.quantity }}</div>
+      </div>
+      <hr class="summary-divider" style="margin:1rem 0" />
+      <div class="summary-total" style="margin-bottom:1.5rem">
+        <span>Total</span>
+        <span>₹{{ total }}</span>
+      </div>
+      <button class="btn-place-order" (click)="placeOrder()" [disabled]="loading">
+        <span *ngIf="!loading">✓ Place Order</span>
+        <span *ngIf="loading">Placing order...</span>
+      </button>
+      <a routerLink="/cart" style="display:block; text-align:center; margin-top:1rem; color:#6b7280; font-size:0.875rem;">
+        ← Edit Cart
+      </a>
+    </div>
+  </div>
+</div>
