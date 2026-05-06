@@ -1,0 +1,75 @@
+<div class="page">
+  <!-- Hero Banner -->
+  <div class="hero-banner">
+    <div>
+      <div class="hero-tag">New Arrivals</div>
+      <h1 class="hero-title">Shop the <span>Best</span><br/>Products Online</h1>
+      <p class="hero-desc">Discover curated products at unbeatable prices.</p>
+    </div>
+  </div>
+
+  <!-- Search -->
+  <div class="search-bar">
+    <input class="search-input" type="text" placeholder="🔍  Search products..."
+      [(ngModel)]="search" (ngModelChange)="filterProducts()" />
+    <span *ngIf="!loading" style="align-self:center; color:#6b7280; font-size:0.875rem; white-space:nowrap;">
+      {{ filtered.length }} products
+    </span>
+  </div>
+
+  <!-- Admin Add Button -->
+  <div class="admin-header" *ngIf="authService.isAdmin()">
+    <span></span>
+    <button class="btn-add-product" routerLink="/admin/products/new">+ Add Product</button>
+  </div>
+
+  <!-- Loading Skeletons -->
+  <div class="loading-grid" *ngIf="loading">
+    <div class="skeleton-card" *ngFor="let i of [1,2,3,4,5,6]">
+      <div class="skeleton-img"></div>
+      <div class="skeleton-body">
+        <div class="skeleton-line"></div>
+        <div class="skeleton-line short"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Empty -->
+  <div class="empty-state" *ngIf="!loading && filtered.length === 0">
+    <div class="empty-icon">🔍</div>
+    <div class="empty-title">No products found</div>
+    <p>Try a different search term</p>
+  </div>
+
+  <!-- Products Grid -->
+  <div class="products-grid" *ngIf="!loading && filtered.length > 0">
+    <div class="product-card" *ngFor="let product of filtered">
+      <div class="product-img-wrap">
+        <img [src]="product.imageUrl || 'https://picsum.photos/seed/' + product.productId + '/400/300'"
+             [alt]="product.name" (error)="product.imageUrl = 'https://picsum.photos/seed/' + product.productId + '/400/300'" />
+        <span class="product-badge" *ngIf="product.stock <= 5 && product.stock > 0">Hot</span>
+        <span class="product-badge admin-badge-card" *ngIf="authService.isAdmin()">Admin</span>
+      </div>
+      <div class="product-body">
+        <div class="product-name">{{ product.name }}</div>
+        <div class="product-desc">{{ product.description }}</div>
+        <div class="product-footer">
+          <div class="product-price">₹{{ product.price }}</div>
+          <div class="product-stock" [class]="getStockClass(product.stock)">
+            {{ getStockLabel(product.stock) }}
+          </div>
+        </div>
+      </div>
+      <div class="product-actions">
+        <button class="btn-details" (click)="goToDetails(product.productId)">Details</button>
+        <button class="btn-cart" (click)="addToCart(product)" [disabled]="product.stock === 0">
+          {{ addedId === product.productId ? '✓ Added!' : (product.stock === 0 ? 'Out of Stock' : '🛒 Add') }}
+        </button>
+        <ng-container *ngIf="authService.isAdmin()">
+          <button class="btn-edit" (click)="editProduct(product.productId)">✏</button>
+          <button class="btn-delete" (click)="deleteProduct(product.productId)">🗑</button>
+        </ng-container>
+      </div>
+    </div>
+  </div>
+</div>

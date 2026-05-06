@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\WebApplication17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E67EB55-4BD3-49B0-A8EB-DE0DE26398E3}|Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\day44_nunit_mocking.tests\\day44_nunit_mocking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E67EB55-4BD3-49B0-A8EB-DE0DE26398E3}|Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj|solutionrelative:day44_nunit_mocking.tests\\day44_nunit_mocking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E67EB55-4BD3-49B0-A8EB-DE0DE26398E3}|Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\day44_nunit_mocking.tests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E67EB55-4BD3-49B0-A8EB-DE0DE26398E3}|Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj|solutionrelative:day44_nunit_mocking.tests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E67EB55-4BD3-49B0-A8EB-DE0DE26398E3}|Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\day44_nunit_mocking.tests\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E67EB55-4BD3-49B0-A8EB-DE0DE26398E3}|Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj|solutionrelative:day44_nunit_mocking.tests\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|c:\\users\\hp\\source\\repos\\webapplication17\\webapplication17\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E8485B5-79CF-5108-1A49-19967069A273}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication17\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\appsettings.json",
+              "RelativeToolTip": "WebApplication17\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T12:07:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IntegrationTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\Day44_NUnit_Mocking.Tests\\IntegrationTest1.cs",
+              "RelativeDocumentMoniker": "Day44_NUnit_Mocking.Tests\\IntegrationTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\Day44_NUnit_Mocking.Tests\\IntegrationTest1.cs",
+              "RelativeToolTip": "Day44_NUnit_Mocking.Tests\\IntegrationTest1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:02:21.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\Day44_NUnit_Mocking.Tests\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "Day44_NUnit_Mocking.Tests\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\Day44_NUnit_Mocking.Tests\\ProductsControllerTests.cs",
+              "RelativeToolTip": "Day44_NUnit_Mocking.Tests\\ProductsControllerTests.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:57:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Day44_NUnit_Mocking.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj",
+              "RelativeDocumentMoniker": "Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj",
+              "RelativeToolTip": "Day44_NUnit_Mocking.Tests\\Day44_NUnit_Mocking.Tests.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T10:47:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebApplication17\\Services\\ProductService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:46:30.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\OrderService.cs",
+              "RelativeToolTip": "WebApplication17\\Services\\OrderService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwGkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:45:22.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\IOrderService.cs",
+              "RelativeToolTip": "WebApplication17\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:45:15.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\IAuthService.cs",
+              "RelativeToolTip": "WebApplication17\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:45:12.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Services\\AuthService.cs",
+              "RelativeToolTip": "WebApplication17\\Services\\AuthService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:45:06.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication17\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:06:26.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Models\\Order.cs",
+              "RelativeToolTip": "WebApplication17\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:30:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Models\\OrderItem.cs",
+              "RelativeToolTip": "WebApplication17\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:31:04.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "WebApplication17\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:44:47.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "WebApplication17\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:44:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication17\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:44:03.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication17\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication17\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T09:50:04.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Program.cs",
+              "RelativeToolTip": "WebApplication17\\Program.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:12:29.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "WebApplication17\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:08:46.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "WebApplication17\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:08:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication17\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:08:04.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApplication17\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T08:59:56.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication17\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication17\\WebApplication17\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "WebApplication17\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T08:59:53.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
